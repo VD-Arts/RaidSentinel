@@ -1,22 +1,37 @@
-# Proprietary License - Visionary Digital Arts
+# Visionary Digital Arts - Proprietary Source-Available License
 
 Copyright (c) 2025 Visionary Interactive s.r.o
+Všechna práva vyhrazena.
 
-All rights reserved.
+## DŮLEŽITÉ UPOZORNĚNÍ
 
-## Podmínky použití:
+Tento repozitář a veškerý jeho obsah je vlastnictvím společnosti 
+Visionary Interactive s.r.o. Zdrojový kód je zveřejněn pouze pro 
+účely transparentnosti a studia.
 
-1. Zdrojový kód tohoto projektu je veřejně dostupný pouze pro účely:
-   - Prohlížení a studia
-   - Testování a vývoje nekomerčních aplikací
-   
-2. BEZ VÝSLOVNÉHO PÍSEMNÉHO SOUHLASU organizace Visionary Digital Arts je ZAKÁZÁNO:
-   - Komerční využití tohoto softwaru
+## Podmínky
+
+1. POVOLENO:
+   - Prohlížení a studium zdrojového kódu
+   - Vytváření fork kopií pro osobní, nekomerční testování
+   - Hlášení chyb a bezpečnostních problémů
+
+2. ZAKÁZÁNO bez písemného souhlasu:
+   - Jakékoli komerční využití
    - Redistribuce v jakékoli formě
-   - Vytváření derivative works pro veřejné šíření
+   - Vytváření a distribuce odvozených děl
+   - Použití kódu v jiných projektech
+
+3. PŘÍSPĚVKY (CONTRIBUTIONS):
+   Jakýkoli příspěvek (pull request, patch, návrh kódu) do tohoto 
+   repozitáře podléhá Contributor License Agreement (CLA).
    
-3. Všechny příspěvky (pull requests) do tohoto repozitáře podléhají Contributor License Agreement (CLA), který musí být podepsán před přijetím jakéhokoli příspěvku.
+   ODESLÁNÍM PŘÍSPĚVKU BEZVÝHRADNĚ SOUHLASÍTE S PŘEVODEM 
+   VŠECH AUTORSKÝCH PRÁV NA VISIONARY INTERACTIVE S.R.O.
+   
+   Viz CLA.md pro úplné podmínky.
 
-4. Odesláním příspěvku souhlasíte s převodem všech autorských práv na organizaci Visionary Digital Arts dle CLA podmínek.
+## Právní doložka
 
-TENTO SOFTWARE JE POSKYTOVÁN "JAK JE", BEZ JAKÝCHKOLI ZÁRUK.
+Porušení těchto podmínek může vést k právním krokům dle platných 
+zákonů České republiky a mezinárodního práva.
